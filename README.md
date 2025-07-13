@@ -25,7 +25,7 @@ TELEGRAM_CHAT_ID=your_chat_id
 
 3. Run the bot:
 ```bash
-python anil_trade_bot.py
+python anil_trade_bot_v2.py
 ```
 
 ## Access Token
